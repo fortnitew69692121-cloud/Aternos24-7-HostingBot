@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Aternos-AFK-BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": ""MC2CMP.aternos.m",
+    "port": 23239,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
